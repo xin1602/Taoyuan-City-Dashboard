@@ -1,0 +1,1584 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
+"features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "大樹派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Dashu Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區樹仁二街41號",
+        "PHONE": "03-3622987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3202189,
+          24.97803419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "埔子派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Puzi Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區力行路258號",
+        "PHONE": "03-3353692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2990047,
+          25.00005046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "青溪派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Qingxi Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區鎮撫街39號",
+        "PHONE": "03-3332742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3142734,
+          24.99804485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "中路派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Zhonglu Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區縣府路51號",
+        "PHONE": "03-3578385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2997079,
+          24.99328735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "景福派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Jingfu Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區民族路110號",
+        "PHONE": "03-3578385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3090792,
+          24.99245115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "武陵派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Wuling Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區復興路137號",
+        "PHONE": "03-3364224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3121396,
+          24.98995225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "同安派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Tongan Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區經國路799號",
+        "PHONE": "03-3568289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.300432,
+          25.02788617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "桃園區",
+        "STATION_NAME": "龍安派出所",
+        "OFFICE_NAME": "桃園分局",
+        "ENG_NAME": "Longan Police Station",
+        "POSTCODE": "330",
+        "ADDR": "桃園市桃園區國豐一街101號",
+        "PHONE": "03-3601975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.281039,
+          24.99092575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大園區",
+        "STATION_NAME": "潮音派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Chao-Yin Police Station",
+        "POSTCODE": "337",
+        "ADDR": "桃園市大園區潮音北路473號",
+        "PHONE": "03-3862314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1714614,
+          25.08100544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "觀音區",
+        "STATION_NAME": "觀音分駐所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Guan-Yin Police Station",
+        "POSTCODE": "328",
+        "ADDR": "桃園市觀音區中山路14號",
+        "PHONE": "03-4732025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0821352,
+          25.03652193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "觀音區",
+        "STATION_NAME": "草漯派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Cao-Ta Police Station",
+        "POSTCODE": "328",
+        "ADDR": "桃園市觀音區大觀路2段77號",
+        "PHONE": "03-4830301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1430119,
+          25.04716719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "觀音區",
+        "STATION_NAME": "新坡派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Sin-Po Police Station",
+        "POSTCODE": "328",
+        "ADDR": "桃園市觀音區中山路2段668號",
+        "PHONE": "03-4981001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1362043,
+          25.01262055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大園區",
+        "STATION_NAME": "竹圍派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Jhu-Wei Police Station",
+        "POSTCODE": "337",
+        "ADDR": "桃園市大園區竹圍街10號",
+        "PHONE": "03-3835089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2437029,
+          25.10398944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大園區",
+        "STATION_NAME": "埔心派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Pu-Sin Police Station",
+        "POSTCODE": "337",
+        "ADDR": "桃園市大園區埔心里1號",
+        "PHONE": "03-3811684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.224221,
+          25.05423743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大園區",
+        "STATION_NAME": "大園派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "Dayuan Police Station",
+        "POSTCODE": "337",
+        "ADDR": "桃園市大園區中正西路13號",
+        "PHONE": "03-3862804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1956154,
+          25.06343094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大園區",
+        "STATION_NAME": "三菓派出所",
+        "OFFICE_NAME": "大園分局",
+        "ENG_NAME": "San-Guo Police Station",
+        "POSTCODE": "337",
+        "ADDR": "桃園市大園區三和路25號",
+        "PHONE": "03-3936118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2570811,
+          25.07320154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "蘆竹區",
+        "STATION_NAME": "南崁派出所",
+        "OFFICE_NAME": "蘆竹分局",
+        "ENG_NAME": "NanKan Police Station",
+        "POSTCODE": "338",
+        "ADDR": "桃園市蘆竹區南崁路177號",
+        "PHONE": "03-3223981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2934047,
+          25.04744414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "蘆竹區",
+        "STATION_NAME": "大竹派出所",
+        "OFFICE_NAME": "蘆竹分局",
+        "ENG_NAME": "Dajhu Police Station",
+        "POSTCODE": "338",
+        "ADDR": "桃園市蘆竹區大竹路540號",
+        "PHONE": "03-3232704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.259408,
+          25.02412207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "蘆竹區",
+        "STATION_NAME": "南竹派出所",
+        "OFFICE_NAME": "蘆竹分局",
+        "ENG_NAME": "Nanjhu Police Station",
+        "POSTCODE": "337",
+        "ADDR": "桃園市蘆竹區南竹路2段99號",
+        "PHONE": "03-3121090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2848356,
+          25.04133174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "蘆竹區",
+        "STATION_NAME": "外社派出所",
+        "OFFICE_NAME": "蘆竹分局",
+        "ENG_NAME": "Waishe Police Station",
+        "POSTCODE": "338",
+        "ADDR": "桃園市蘆竹區山林路2段405號",
+        "PHONE": "03-3241749"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3038259,
+          25.08339831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "復興分駐所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Fuxing  Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區中正路2號",
+        "PHONE": "03-3822604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3509054,
+          24.81414975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "羅浮派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Luofu Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區羅浮里3鄰3號",
+        "PHONE": "03-3822606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3655736,
+          24.79928513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "榮華派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Ronghua Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區高義里11鄰卡義蘭2號",
+        "PHONE": "03-3821016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.347648,
+          24.73911429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "巴陵派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Baling Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區華陵里9鄰44號",
+        "PHONE": "03-3912180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.335162,
+          24.68598148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "奎輝派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Kuihui Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區奎輝里4鄰37號",
+        "PHONE": "03-3822960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3352049,
+          24.79610969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "三光派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Sanguang Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區三光里7鄰武道能敢32號",
+        "PHONE": "03-3912258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3671114,
+          24.67218745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "光華派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Guanghua Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區華陵里哈嘎灣10號",
+        "PHONE": "03-3912253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3992771,
+          24.65533586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "霞雲派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Xiayun Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區霞雲里6鄰21號",
+        "PHONE": "03-3822607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3838794,
+          24.81654019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "長興派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Changxing Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區長興里16鄰29號",
+        "PHONE": "03-3822961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3071782,
+          24.79965299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "溪內派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Xinei Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區羅浮里河流2鄰51之2號",
+        "PHONE": "03-3822958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3680258,
+          24.80333573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "三元派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Sanyuan Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區石園路53號",
+        "PHONE": "03-3801040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2651917,
+          24.88061368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "圳頂派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Zunding Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區公園路46號",
+        "PHONE": "03-3801287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2838543,
+          24.90460715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "內柵派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Neizha Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區內柵路1段56號",
+        "PHONE": "03-3883849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2811529,
+          24.85935215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "中新派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Zhongxin Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區大鶯路1479號",
+        "PHONE": "03-3801853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3182227,
+          24.93006563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "百吉派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Baiji Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區復興路二段209號",
+        "PHONE": "03-3885884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3092126,
+          24.82503845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "復興區",
+        "STATION_NAME": "三民派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Sanmin Police Station",
+        "POSTCODE": "336",
+        "ADDR": "桃園市復興區三民里水流東路43號",
+        "PHONE": "03-3825605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3309784,
+          24.83213371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "三層派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Sanceng Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區復興路1段890號",
+        "PHONE": "03-3882349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2864638,
+          24.84920295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "永福派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Yongfu Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區信義路1127號",
+        "PHONE": "03-3885802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3240818,
+          24.89422075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "南雅派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Nanya Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區康莊路181號",
+        "PHONE": "03-3883720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2886592,
+          24.87955918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "大溪區",
+        "STATION_NAME": "福安派出所",
+        "OFFICE_NAME": "大溪分局",
+        "ENG_NAME": "Fuan Police Station",
+        "POSTCODE": "335",
+        "ADDR": "桃園市大溪區福安里猴洞坑19之2號",
+        "PHONE": "03-3888767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2851739,
+          24.84776673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "文化派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Wenhua Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區吉林路60號",
+        "PHONE": "03-4528348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2452583,
+          24.97897239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "仁愛派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Renai Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區仁愛里功學路112號",
+        "PHONE": "03-4563524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2559038,
+          24.95479383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "興國派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Xingguo Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區志廣路38號",
+        "PHONE": "03-4258325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2088648,
+          24.96047673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "龍興派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Longxing Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區龍勇路141號",
+        "PHONE": "03-4285776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2347487,
+          24.93818865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "大崙派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Dalun Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區崇德路137號",
+        "PHONE": "03-4982260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1810069,
+          24.99010887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "中福派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Zhongfu Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區南園二路86號",
+        "PHONE": "03-4523093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2334497,
+          24.97184859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "內壢派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Neili Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區中華路1段364號",
+        "PHONE": "03-4553845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2555892,
+          24.97218262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "普仁派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Puren Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區中山東路二段361號",
+        "PHONE": "03-4562912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.243143,
+          24.94926722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "中壢派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Zhongli Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區延平路607號",
+        "PHONE": "03-4222030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2223477,
+          24.95412166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "自強派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Ziqiang Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區強國路68號",
+        "PHONE": "03-2854333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2583956,
+          24.96779173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "中壢區",
+        "STATION_NAME": "青埔派出所",
+        "OFFICE_NAME": "中壢分局",
+        "ENG_NAME": "Qingpu Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市中壢區青埔路1段67號",
+        "PHONE": "03-4531468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2105556,
+          25.01378339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "新屋區",
+        "STATION_NAME": "頭洲派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Touzhou Police Station",
+        "POSTCODE": "327",
+        "ADDR": "桃園市新屋區頭洲里中山東路二段757號",
+        "PHONE": "03-4909508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1462345,
+          24.96308935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "楊梅區",
+        "STATION_NAME": "幼獅派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Youshi Police Station",
+        "POSTCODE": "326",
+        "ADDR": "桃園市楊梅區幼獅路1段458號",
+        "PHONE": "03-4643521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1746455,
+          24.92649739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "楊梅區",
+        "STATION_NAME": "上湖派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Shanghu Police Station",
+        "POSTCODE": "326",
+        "ADDR": "桃園市楊梅區楊湖路3段239號",
+        "PHONE": "03-4721721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0949063,
+          24.91268606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "新屋區",
+        "STATION_NAME": "新屋分駐所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Xinwu Police Station",
+        "POSTCODE": "327",
+        "ADDR": "桃園市新屋區中山路241號",
+        "PHONE": "03-4772014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1064837,
+          24.97245862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "新屋區",
+        "STATION_NAME": "永安派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Yongan Police Station",
+        "POSTCODE": "327",
+        "ADDR": "桃園市新屋區中山西路3段62號",
+        "PHONE": "03-4861092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0447762,
+          24.98752154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "新屋區",
+        "STATION_NAME": "大坡派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Dapo Police Station",
+        "POSTCODE": "327",
+        "ADDR": "桃園市新屋區三角堀94號",
+        "PHONE": "03-4768410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0386455,
+          24.95900013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "楊梅區",
+        "STATION_NAME": "富岡派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Fugang Police Station",
+        "POSTCODE": "326",
+        "ADDR": "桃園市楊梅區富源街22號",
+        "PHONE": "03-4721794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0818788,
+          24.93575649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "楊梅區",
+        "STATION_NAME": "草湳派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Caonan Police Station",
+        "POSTCODE": "326",
+        "ADDR": "桃園市楊梅區永美路237號",
+        "PHONE": "03-4826278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1835513,
+          24.91867295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "楊梅區",
+        "STATION_NAME": "楊梅派出所",
+        "OFFICE_NAME": "楊梅分局",
+        "ENG_NAME": "Yangmei Police Station ",
+        "POSTCODE": "326",
+        "ADDR": "桃園市楊梅區中山路123號",
+        "PHONE": "03-4782007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1459004,
+          24.90682253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "平鎮區",
+        "STATION_NAME": "北勢派出所",
+        "OFFICE_NAME": "平鎮分局",
+        "ENG_NAME": "Pei-Shih Police Station",
+        "POSTCODE": "324",
+        "ADDR": "桃園市平鎮區振平街228號",
+        "PHONE": "03-4282206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2208924,
+          24.94192883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "平鎮區",
+        "STATION_NAME": "宋屋派出所",
+        "OFFICE_NAME": "平鎮分局",
+        "ENG_NAME": "Sung-Wu Police Station",
+        "POSTCODE": "324",
+        "ADDR": "桃園市平鎮區延平路2段412號",
+        "PHONE": "03-4938381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2062988,
+          24.94269335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "平鎮區",
+        "STATION_NAME": "平鎮派出所",
+        "OFFICE_NAME": "平鎮分局",
+        "ENG_NAME": "Pingjhen Police Station",
+        "POSTCODE": "324",
+        "ADDR": "桃園市平鎮區中庸路123號",
+        "PHONE": "03-4391280"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2075648,
+          24.91302939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "平鎮區",
+        "STATION_NAME": "建安派出所",
+        "OFFICE_NAME": "平鎮分局",
+        "ENG_NAME": "Chien-An Police Station",
+        "POSTCODE": "324",
+        "ADDR": "桃園市平鎮區金陵路5段108號",
+        "PHONE": "03-4502331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2311278,
+          24.90921213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "平鎮區",
+        "STATION_NAME": "龍岡派出所",
+        "OFFICE_NAME": "平鎮分局",
+        "ENG_NAME": "Lung-Kang Police Station",
+        "POSTCODE": "320",
+        "ADDR": "桃園市平鎮區龍南路141號",
+        "PHONE": "03-4503245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2473123,
+          24.92384911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "龜山派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Kwei Shan Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區萬壽路2段931號",
+        "PHONE": "03-3202554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3386408,
+          24.99526322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "大林派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Da Lin Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區中興路158號",
+        "PHONE": "03-3500070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3322597,
+          24.98905354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "大坑派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Da Keng Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區大坑路一段851號",
+        "PHONE": "03-3251310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3146084,
+          25.04524536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "大埔派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Dapu Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區文德二路80號",
+        "PHONE": "03-3291735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3816421,
+          25.05342745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "迴龍派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Hueilong Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區龍鳳街32巷6號1樓",
+        "PHONE": "02-82006815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4088932,
+          25.01874708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "坪頂派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Pingding Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區大湖一路65號",
+        "PHONE": "03-3282570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3570183,
+          25.05542929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龜山區",
+        "STATION_NAME": "大華派出所",
+        "OFFICE_NAME": "龜山分局",
+        "ENG_NAME": "Dahwa Police Station",
+        "POSTCODE": "333",
+        "ADDR": "桃園市龜山區文化七路135號",
+        "PHONE": "03-3975557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3653216,
+          25.05181396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "八德區",
+        "STATION_NAME": "八德派出所",
+        "OFFICE_NAME": "八德分局",
+        "ENG_NAME": "Bade Police Station",
+        "POSTCODE": "334",
+        "ADDR": "桃園市八德區興豐路1216號",
+        "PHONE": "03-3682802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2847657,
+          24.92958838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "八德區",
+        "STATION_NAME": "廣興派出所",
+        "OFFICE_NAME": "八德分局",
+        "ENG_NAME": "Guang-Sing Police Station",
+        "POSTCODE": "334",
+        "ADDR": "桃園市八德區廣興路829號",
+        "PHONE": "03-3775127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2837802,
+          24.95026207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "八德區",
+        "STATION_NAME": "四維派出所",
+        "OFFICE_NAME": "八德分局",
+        "ENG_NAME": "Sih-Wei Police Station",
+        "POSTCODE": "334",
+        "ADDR": "桃園市八德區重慶街148號",
+        "PHONE": "03-3662771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3028276,
+          24.95572512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "八德區",
+        "STATION_NAME": "高明派出所",
+        "OFFICE_NAME": "八德分局",
+        "ENG_NAME": "Gao-Ming Police Station",
+        "POSTCODE": "334",
+        "ADDR": "桃園市八德區永豐路160號",
+        "PHONE": "03-3771790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2787248,
+          24.96477611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "八德區",
+        "STATION_NAME": "大安派出所",
+        "OFFICE_NAME": "八德分局",
+        "ENG_NAME": "Da-AN Police Station",
+        "POSTCODE": "334",
+        "ADDR": "桃園市八德區和平路頂橋巷25號",
+        "PHONE": "03-3644106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3248152,
+          24.97047004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龍潭區",
+        "STATION_NAME": "三和派出所",
+        "OFFICE_NAME": "龍潭分局",
+        "ENG_NAME": "Sanhe Police Station",
+        "POSTCODE": "325",
+        "ADDR": "桃園市龍潭區龍新路三和段1050號",
+        "PHONE": "03-4794384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.17506,
+          24.85036394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龍潭區",
+        "STATION_NAME": "高平派出所",
+        "OFFICE_NAME": "龍潭分局",
+        "ENG_NAME": "Gaoping Police Station",
+        "POSTCODE": "325",
+        "ADDR": "桃園市龍潭區中豐路高平段281號",
+        "PHONE": "03-4717204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2069339,
+          24.83578314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龍潭區",
+        "STATION_NAME": "石門派出所",
+        "OFFICE_NAME": "龍潭分局",
+        "ENG_NAME": "Shimen Police Station",
+        "POSTCODE": "325",
+        "ADDR": "桃園市龍潭區文化路230號",
+        "PHONE": "03-4712021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2411612,
+          24.84281145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龍潭區",
+        "STATION_NAME": "中興派出所",
+        "OFFICE_NAME": "龍潭分局",
+        "ENG_NAME": "Zhongxing Police Station",
+        "POSTCODE": "325",
+        "ADDR": "桃園市龍潭區武漢路45號",
+        "PHONE": "03-4797497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2343961,
+          24.87261744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龍潭區",
+        "STATION_NAME": "龍潭派出所",
+        "OFFICE_NAME": "龍潭分局",
+        "ENG_NAME": "Longtan Police Station",
+        "POSTCODE": "325",
+        "ADDR": "桃園市龍潭區大昌路1段277號",
+        "PHONE": "03-4792002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2203533,
+          24.87015384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "龍潭區",
+        "STATION_NAME": "聖亭派出所",
+        "OFFICE_NAME": "龍潭分局",
+        "ENG_NAME": "Shengting Police Station",
+        "POSTCODE": "325",
+        "ADDR": "桃園市龍潭區干城路21號",
+        "PHONE": "03-4891110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2075694,
+          24.86862326
+        ]
+      }
+    }
+  ]
+}

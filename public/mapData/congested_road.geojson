@@ -1,0 +1,2981 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353520600010H",
+				"road_id": "635352H",
+				"road_name": "中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.240252, 24.957169],
+					[121.239181, 24.956808]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353520600000H",
+				"road_id": "635352H",
+				"road_name": "中北路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239181, 24.956808],
+					[121.235495, 24.955608]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353530100050H",
+				"road_id": "635353H",
+				"road_name": "中北路二段",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.235495, 24.955608],
+					[121.229391, 24.953096]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353530100040H",
+				"road_id": "635353H",
+				"road_name": "中北路二段",
+				"congest_level": "B"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.229391, 24.953096],
+					[121.227577, 24.952572]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353530100030H",
+				"road_id": "635353H",
+				"road_name": "中北路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.227577, 24.952572],
+					[121.226556, 24.951845]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353530100020H",
+				"road_id": "635353H",
+				"road_name": "中北路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226556, 24.951845],
+					[121.224944, 24.950683]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353530100010H",
+				"road_id": "635353H",
+				"road_name": "中北路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224944, 24.950683],
+					[121.223587, 24.949922]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353530100000H",
+				"road_id": "635353H",
+				"road_name": "中北路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.223587, 24.949922],
+					[121.222986, 24.94959]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6377950300000H",
+				"road_id": "637795H",
+				"road_name": "實踐路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.238967, 24.958744],
+					[121.239211, 24.958347]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6377950700010H",
+				"road_id": "637795H",
+				"road_name": "實踐路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239211, 24.958347],
+					[121.239181, 24.956808]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6377950300020H",
+				"road_id": "637795H",
+				"road_name": "實踐路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239181, 24.956808],
+					[121.240608, 24.955574]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6377950300030H",
+				"road_id": "637795H",
+				"road_name": "實踐路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.240608, 24.955574],
+					[121.242157, 24.954305]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6377950300040H",
+				"road_id": "637795H",
+				"road_name": "實踐路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.242157, 24.954305],
+					[121.243177, 24.953474]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6358070500000H",
+				"road_id": "635807H",
+				"road_name": "日新路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.240608, 24.955574],
+					[121.238139, 24.95379]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6358740500000H",
+				"road_id": "635874H",
+				"road_name": "弘揚路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.242157, 24.954305],
+					[121.239631, 24.952633]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382650500030H",
+				"road_id": "638265H",
+				"road_name": "環中東路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.254672, 24.961837],
+					[121.249033, 24.957707]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382650500020H",
+				"road_id": "638265H",
+				"road_name": "環中東路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.249033, 24.957707],
+					[121.24809, 24.957051]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382650500010H",
+				"road_id": "638265H",
+				"road_name": "環中東路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.24809, 24.957051],
+					[121.243177, 24.953474]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382650100000H",
+				"road_id": "638265H",
+				"road_name": "環中東路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.243177, 24.953474],
+					[121.240388, 24.951544]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500060H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.240388, 24.951544],
+					[121.238859, 24.950537]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500050H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.238859, 24.950537],
+					[121.235062, 24.948095]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500040H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.235062, 24.948095],
+					[121.230701, 24.945285]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500030H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.230701, 24.945285],
+					[121.229573, 24.94455]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500020H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.229573, 24.94455],
+					[121.22744, 24.943083]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500010H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "F"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22744, 24.943083],
+					[121.225123, 24.941607]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382660500000H",
+				"road_id": "638266H",
+				"road_name": "環中東路二段",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225123, 24.941607],
+					[121.224856, 24.941478]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6382800600020H",
+				"road_id": "638280H",
+				"road_name": "環南路三段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224856, 24.941478],
+					[121.223056, 24.940738]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200000H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.235068, 24.956128],
+					[121.238119, 24.958319]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200010H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.238119, 24.958319],
+					[121.239899, 24.959215]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200020H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239899, 24.959215],
+					[121.240207, 24.959282]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200030H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.240207, 24.959282],
+					[121.241579, 24.959285]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200040H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.241579, 24.959285],
+					[121.242671, 24.959087]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200050H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.242671, 24.959087],
+					[121.243665, 24.958752]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200060H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.243665, 24.958752],
+					[121.244193, 24.958501]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200070H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.244193, 24.958501],
+					[121.245002, 24.95783]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200080H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.245002, 24.95783],
+					[121.246131, 24.957187]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200090H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.246131, 24.957187],
+					[121.24809, 24.957051]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6375640200100H",
+				"road_id": "637564H",
+				"road_name": "新中北路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.24809, 24.957051],
+					[121.249908, 24.956947]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374100300000H",
+				"road_id": "637410H",
+				"road_name": "普忠路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.241404, 24.965995],
+					[121.242711, 24.96418]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374100300010H",
+				"road_id": "637410H",
+				"road_name": "普忠路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.242711, 24.96418],
+					[121.245187, 24.961685]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374100300020H",
+				"road_id": "637410H",
+				"road_name": "普忠路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.245187, 24.961685],
+					[121.249078, 24.957671]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374100300030H",
+				"road_id": "637410H",
+				"road_name": "普忠路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.249078, 24.957671],
+					[121.249908, 24.956947]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374100300040H",
+				"road_id": "637410H",
+				"road_name": "普忠路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.249908, 24.956947],
+					[121.250667, 24.956127]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6365020300000H",
+				"road_id": "636502H",
+				"road_name": "忠義路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.237879, 24.964771],
+					[121.239122, 24.962615]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6365020300010H",
+				"road_id": "636502H",
+				"road_name": "忠義路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239122, 24.962615],
+					[121.240445, 24.960419]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6364810500000H",
+				"road_id": "636481H",
+				"road_name": "忠信路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.236427, 24.961437],
+					[121.239122, 24.962615]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6364810500010H",
+				"road_id": "636481H",
+				"road_name": "忠信路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239122, 24.962615],
+					[121.240756, 24.96329]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354520200000H",
+				"road_id": "635452H",
+				"road_name": "中華路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.230558, 24.962402],
+					[121.233581, 24.963483]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354520200010H",
+				"road_id": "635452H",
+				"road_name": "中華路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.233581, 24.963483],
+					[121.23522, 24.963927]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354520200020H",
+				"road_id": "635452H",
+				"road_name": "中華路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.23522, 24.963927],
+					[121.237937, 24.964844]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354520200030H",
+				"road_id": "635452H",
+				"road_name": "中華路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.237937, 24.964844],
+					[121.241404, 24.965995]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354520200040H",
+				"road_id": "635452H",
+				"road_name": "中華路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.241404, 24.965995],
+					[121.244376, 24.967042]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372770500000H",
+				"road_id": "637277H",
+				"road_name": "莒光路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.235627, 24.95137],
+					[121.237479, 24.952282]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372770500010H",
+				"road_id": "637277H",
+				"road_name": "莒光路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.237479, 24.952282],
+					[121.238852, 24.953374]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6363260300000H",
+				"road_id": "636326H",
+				"road_name": "利民路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.237479, 24.952282],
+					[121.238859, 24.950537]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366940500000H",
+				"road_id": "636694H",
+				"road_name": "長沙路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22789, 24.948122],
+					[121.230498, 24.949225]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366940500010H",
+				"road_id": "636694H",
+				"road_name": "長沙路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.230498, 24.949225],
+					[121.231992, 24.949869]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366940500020H",
+				"road_id": "636694H",
+				"road_name": "長沙路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.231992, 24.949869],
+					[121.233775, 24.950626]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6362440700000H",
+				"road_id": "636244H",
+				"road_name": "成都路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.230944, 24.951818],
+					[121.231992, 24.949869]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6378510700000H",
+				"road_id": "637851H",
+				"road_name": "福州路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.232004, 24.954125],
+					[121.232719, 24.952693]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6378510700010H",
+				"road_id": "637851H",
+				"road_name": "福州路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.232719, 24.952693],
+					[121.233775, 24.950626]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6378510700020H",
+				"road_id": "637851H",
+				"road_name": "福州路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.233775, 24.950626],
+					[121.234079, 24.950007]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6378510700030H",
+				"road_id": "637851H",
+				"road_name": "福州路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.234079, 24.950007],
+					[121.235062, 24.948095]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6358510100000H",
+				"road_id": "635851H",
+				"road_name": "四維路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22991, 24.95908],
+					[121.231414, 24.959781]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6358510100010H",
+				"road_id": "635851H",
+				"road_name": "四維路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.231414, 24.959781],
+					[121.232086, 24.960125]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6361160100000H",
+				"road_id": "636116H",
+				"road_name": "立和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.230201, 24.958512],
+					[121.23242, 24.959458]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374110300000H",
+				"road_id": "637411H",
+				"road_name": "普義路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.229785, 24.963222],
+					[121.230558, 24.962402]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374110300010H",
+				"road_id": "637411H",
+				"road_name": "普義路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.230558, 24.962402],
+					[121.232086, 24.960125]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374110300020H",
+				"road_id": "637411H",
+				"road_name": "普義路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.232086, 24.960125],
+					[121.23242, 24.959458]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374110300030H",
+				"road_id": "637411H",
+				"road_name": "普義路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.23242, 24.959458],
+					[121.232903, 24.958855]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6374110300040H",
+				"road_id": "637411H",
+				"road_name": "普義路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.232903, 24.958855],
+					[121.234022, 24.957103]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353280200000H",
+				"road_id": "635328H",
+				"road_name": "中山東路一段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.229021, 24.955723],
+					[121.232157, 24.95658]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353280200010H",
+				"road_id": "635328H",
+				"road_name": "中山東路一段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.232157, 24.95658],
+					[121.234022, 24.957103]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353280200020H",
+				"road_id": "635328H",
+				"road_name": "中山東路一段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.234022, 24.957103],
+					[121.235495, 24.955608]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353280200030H",
+				"road_id": "635328H",
+				"road_name": "中山東路一段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.235495, 24.955608],
+					[121.23679, 24.954576]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353300300000H",
+				"road_id": "635330H",
+				"road_name": "中山東路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.23679, 24.954576],
+					[121.238139, 24.95379]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353300300010H",
+				"road_id": "635330H",
+				"road_name": "中山東路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.238139, 24.95379],
+					[121.238852, 24.953374]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353300300020H",
+				"road_id": "635330H",
+				"road_name": "中山東路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.238852, 24.953374],
+					[121.239302, 24.953099]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353300300030H",
+				"road_id": "635330H",
+				"road_name": "中山東路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239302, 24.953099],
+					[121.239631, 24.952633]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353300300040H",
+				"road_id": "635330H",
+				"road_name": "中山東路二段",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.239631, 24.952633],
+					[121.240388, 24.951544]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353300300050H",
+				"road_id": "635330H",
+				"road_name": "中山東路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.240388, 24.951544],
+					[121.246421, 24.946413]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353320300000H",
+				"road_id": "635332H",
+				"road_name": "中山東路三段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.246421, 24.946413],
+					[121.248572, 24.944137]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353320300010H",
+				"road_id": "635332H",
+				"road_name": "中山東路三段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.248572, 24.944137],
+					[121.249812, 24.942617]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6371730400000H",
+				"road_id": "637173H",
+				"road_name": "健行路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226036, 24.952917],
+					[121.226556, 24.951845]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6371730400010H",
+				"road_id": "637173H",
+				"road_name": "健行路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226556, 24.951845],
+					[121.22789, 24.948122]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6371730400020H",
+				"road_id": "637173H",
+				"road_name": "健行路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22789, 24.948122],
+					[121.228467, 24.947008]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6376680500000H",
+				"road_id": "637668H",
+				"road_name": "新興路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222619, 24.951613],
+					[121.226036, 24.952917]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6376680500010H",
+				"road_id": "637668H",
+				"road_name": "新興路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226036, 24.952917],
+					[121.229362, 24.954318]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381710300000H",
+				"road_id": "638171H",
+				"road_name": "龍岡路一段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222619, 24.951613],
+					[121.223587, 24.949922]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381710300010H",
+				"road_id": "638171H",
+				"road_name": "龍岡路一段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.223587, 24.949922],
+					[121.224974, 24.94796]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381710300020H",
+				"road_id": "638171H",
+				"road_name": "龍岡路一段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224974, 24.94796],
+					[121.225364, 24.947827]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381710300030H",
+				"road_id": "638171H",
+				"road_name": "龍岡路一段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225364, 24.947827],
+					[121.228502, 24.946926]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381720400000H",
+				"road_id": "638172H",
+				"road_name": "龍岡路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228502, 24.946926],
+					[121.228467, 24.947008]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381720400010H",
+				"road_id": "638172H",
+				"road_name": "龍岡路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228467, 24.947008],
+					[121.228986, 24.946298]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381720400020H",
+				"road_id": "638172H",
+				"road_name": "龍岡路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228986, 24.946298],
+					[121.229573, 24.94455]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381720400030H",
+				"road_id": "638172H",
+				"road_name": "龍岡路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.229573, 24.94455],
+					[121.229992, 24.942299]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6381720400040H",
+				"road_id": "638172H",
+				"road_name": "龍岡路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.229992, 24.942299],
+					[121.231152, 24.939051]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6365740400000H",
+				"road_id": "636574H",
+				"road_name": "林森路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225364, 24.947827],
+					[121.225258, 24.947434]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6365740400010H",
+				"road_id": "636574H",
+				"road_name": "林森路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225258, 24.947434],
+					[121.225294, 24.947277]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6365740400020H",
+				"road_id": "636574H",
+				"road_name": "林森路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225294, 24.947277],
+					[121.22744, 24.943083]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372460300000H",
+				"road_id": "637246H",
+				"road_name": "康樂路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.21981, 24.955317],
+					[121.220156, 24.954532]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372460300010H",
+				"road_id": "637246H",
+				"road_name": "康樂路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220156, 24.954532],
+					[121.220473, 24.954085]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372460300020H",
+				"road_id": "637246H",
+				"road_name": "康樂路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220473, 24.954085],
+					[121.220693, 24.953845]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372460300030H",
+				"road_id": "637246H",
+				"road_name": "康樂路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220693, 24.953845],
+					[121.221459, 24.952969]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372460300040H",
+				"road_id": "637246H",
+				"road_name": "康樂路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221459, 24.952969],
+					[121.221803, 24.952544]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6372460300050H",
+				"road_id": "637246H",
+				"road_name": "康樂路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221803, 24.952544],
+					[121.222619, 24.951613]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200000H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22209, 24.95393],
+					[121.22306, 24.953546]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200010H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22306, 24.953546],
+					[121.22335, 24.953432]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200020H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22335, 24.953432],
+					[121.224057, 24.953182]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200030H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224057, 24.953182],
+					[121.224262, 24.953243]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200040H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224262, 24.953243],
+					[121.225351, 24.953763]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200050H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225351, 24.953763],
+					[121.225534, 24.953788]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200060H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226047, 24.95401],
+					[121.22641, 24.954152]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200070H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22641, 24.954152],
+					[121.228239, 24.954886]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200080H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228239, 24.954886],
+					[121.228917, 24.955089]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200090H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228917, 24.955089],
+					[121.228639, 24.955628]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354160200100H",
+				"road_id": "635416H",
+				"road_name": "中和路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228917, 24.955089],
+					[121.229362, 24.954318]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300030H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.20801, 24.961532],
+					[121.209982, 24.960173]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300040H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.209982, 24.960173],
+					[121.212542, 24.958044]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300050H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.212542, 24.958044],
+					[121.213306, 24.957339]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300060H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.213306, 24.957339],
+					[121.214383, 24.956489]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300070H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.214383, 24.956489],
+					[121.215762, 24.955612]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300080H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.215762, 24.955612],
+					[121.216964, 24.955391]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300090H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.216964, 24.955391],
+					[121.217651, 24.955254]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300100H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.217651, 24.955254],
+					[121.218781, 24.955058]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300110H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.218781, 24.955058],
+					[121.219469, 24.955167]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300120H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.219469, 24.955167],
+					[121.21981, 24.955317]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300130H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.21981, 24.955317],
+					[121.220834, 24.955691]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300140H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220834, 24.955691],
+					[121.221424, 24.955442]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300150H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221424, 24.955442],
+					[121.222593, 24.954982]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300160H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222593, 24.954982],
+					[121.223848, 24.954484]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300170H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.223848, 24.954484],
+					[121.224684, 24.954151]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300180H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224684, 24.954151],
+					[121.225251, 24.953915]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300190H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225251, 24.953915],
+					[121.225351, 24.953763]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353920300200H",
+				"road_id": "635392H",
+				"road_name": "中正路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225351, 24.953763],
+					[121.225534, 24.953788]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300000H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220375, 24.956629],
+					[121.221246, 24.956268]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300010H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221246, 24.956268],
+					[121.221467, 24.956183]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300020H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221467, 24.956183],
+					[121.222888, 24.955612]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300030H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222888, 24.955612],
+					[121.224167, 24.955123]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300040H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224167, 24.955123],
+					[121.224979, 24.954795]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300050H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224979, 24.954795],
+					[121.225777, 24.954488]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353640300060H",
+				"road_id": "635364H",
+				"road_name": "中平路",
+				"congest_level": "E"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225777, 24.954488],
+					[121.225913, 24.95416]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200000H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.213306, 24.957339],
+					[121.214531, 24.957145]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200010H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.214531, 24.957145],
+					[121.216036, 24.956871]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200020H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.216036, 24.956871],
+					[121.217254, 24.956647]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200030H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.217254, 24.956647],
+					[121.217946, 24.956528]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200040H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.217946, 24.956528],
+					[121.218966, 24.95635]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200050H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.218966, 24.95635],
+					[121.219288, 24.956313]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200060H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.219288, 24.956313],
+					[121.220375, 24.956629]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200070H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220375, 24.956629],
+					[121.221471, 24.956963]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200080H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221471, 24.956963],
+					[121.221739, 24.956993]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200090H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.221739, 24.956993],
+					[121.222057, 24.956901]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200100H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222057, 24.956901],
+					[121.223276, 24.956413]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200110H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.223276, 24.956413],
+					[121.224538, 24.95591]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200120H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224538, 24.95591],
+					[121.225352, 24.955582]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200130H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225352, 24.955582],
+					[121.226558, 24.955153]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200140H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226558, 24.955153],
+					[121.228042, 24.955465]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200150H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228042, 24.955465],
+					[121.228639, 24.955628]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353420200160H",
+				"road_id": "635342H",
+				"road_name": "中山路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228639, 24.955628],
+					[121.229021, 24.955723]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354190200000H",
+				"road_id": "635419H",
+				"road_name": "中明路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.212542, 24.958044],
+					[121.214655, 24.957723]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354190200010H",
+				"road_id": "635419H",
+				"road_name": "中明路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.214655, 24.957723],
+					[121.216163, 24.95746]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354190200020H",
+				"road_id": "635419H",
+				"road_name": "中明路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.216163, 24.95746],
+					[121.217268, 24.957246]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354180200000H",
+				"road_id": "635418H",
+				"road_name": "中明東路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.217268, 24.957246],
+					[121.218062, 24.957112]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353570300000H",
+				"road_id": "635357H",
+				"road_name": "中央西路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.211158, 24.961518],
+					[121.214916, 24.958904]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353570300010H",
+				"road_id": "635357H",
+				"road_name": "中央西路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.214916, 24.958904],
+					[121.216469, 24.958602]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353570300020H",
+				"road_id": "635357H",
+				"road_name": "中央西路二段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.216469, 24.958602],
+					[121.21727, 24.958476]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353570300030H",
+				"road_id": "635357H",
+				"road_name": "中央西路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.21727, 24.958476],
+					[121.218314, 24.958274]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353570300040H",
+				"road_id": "635357H",
+				"road_name": "中央西路二段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.218314, 24.958274],
+					[121.219285, 24.958157]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353560200010H",
+				"road_id": "635356H",
+				"road_name": "中央西路一段",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.219285, 24.958157],
+					[121.220583, 24.958001]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353560200020H",
+				"road_id": "635356H",
+				"road_name": "中央西路一段",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.220583, 24.958001],
+					[121.222332, 24.957766]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353550300000H",
+				"road_id": "635355H",
+				"road_name": "中央西路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222332, 24.957766],
+					[121.222801, 24.957617]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353550300010H",
+				"road_id": "635355H",
+				"road_name": "中央西路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.222801, 24.957617],
+					[121.223689, 24.95724]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353580200000H",
+				"road_id": "635358H",
+				"road_name": "中央東路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.223689, 24.95724],
+					[121.224952, 24.956771]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353580200010H",
+				"road_id": "635358H",
+				"road_name": "中央東路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.224952, 24.956771],
+					[121.225754, 24.956404]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353580200020H",
+				"road_id": "635358H",
+				"road_name": "中央東路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225754, 24.956404],
+					[121.225972, 24.956365]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353580200030H",
+				"road_id": "635358H",
+				"road_name": "中央東路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225972, 24.956365],
+					[121.226964, 24.955993]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354100300000H",
+				"road_id": "635410H",
+				"road_name": "中光路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.22529, 24.957437],
+					[121.226293, 24.957036]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354100300010H",
+				"road_id": "635410H",
+				"road_name": "中光路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226293, 24.957036],
+					[121.227283, 24.956642]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6354100300020H",
+				"road_id": "635410H",
+				"road_name": "中光路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.227283, 24.956642],
+					[121.228101, 24.956328]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353540300000H",
+				"road_id": "635354H",
+				"road_name": "中台路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.225564, 24.958009],
+					[121.226551, 24.957637]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6353540300010H",
+				"road_id": "635354H",
+				"road_name": "中台路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.226551, 24.957637],
+					[121.227557, 24.957248]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366910400000H",
+				"road_id": "636691H",
+				"road_name": "長江路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.227846, 24.957817],
+					[121.228647, 24.957483]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366910400010H",
+				"road_id": "636691H",
+				"road_name": "長江路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228647, 24.957483],
+					[121.228101, 24.956328]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366910400020H",
+				"road_id": "636691H",
+				"road_name": "長江路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228101, 24.956328],
+					[121.227943, 24.955883]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366910400030H",
+				"road_id": "636691H",
+				"road_name": "長江路",
+				"congest_level": "C"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.227943, 24.955883],
+					[121.228042, 24.955465]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"road_segment_id": "6366910400040H",
+				"road_id": "636691H",
+				"road_name": "長江路",
+				"congest_level": "D"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[121.228042, 24.955465],
+					[121.228239, 24.954886]
+				]
+			}
+		}
+	]
+}

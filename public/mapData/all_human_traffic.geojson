@@ -1,0 +1,3128 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路&大仁街",
+		  "LONG": "121.240252",
+		  "LAT": "24.957169",
+		  "HUMAN_TRAFFIC": "638",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240252, 24.957169]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路&實踐路",
+		  "LONG": "121.239181",
+		  "LAT": "24.956808",
+		  "HUMAN_TRAFFIC": "650",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239181, 24.956808]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路&中山東路一段",
+		  "LONG": "121.235495",
+		  "LAT": "24.955608",
+		  "HUMAN_TRAFFIC": "871",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.235495, 24.955608]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路二段&東明街",
+		  "LONG": "121.229391",
+		  "LAT": "24.953096",
+		  "HUMAN_TRAFFIC": "732",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229391, 24.953096]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路二段&新興路194巷",
+		  "LONG": "121.227577",
+		  "LAT": "24.952572",
+		  "HUMAN_TRAFFIC": "596",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.227577, 24.952572]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路二段&健行路",
+		  "LONG": "121.226556",
+		  "LAT": "24.951845",
+		  "HUMAN_TRAFFIC": "749",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226556, 24.951845]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路二段&中北路二段76巷",
+		  "LONG": "121.224944",
+		  "LAT": "24.950683",
+		  "HUMAN_TRAFFIC": "759",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224944, 24.950683]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路二段&龍岡路一段",
+		  "LONG": "121.223587",
+		  "LAT": "24.949922",
+		  "HUMAN_TRAFFIC": "745",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.223587, 24.949922]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中北路二段&金陵路",
+		  "LONG": "121.222986",
+		  "LAT": "24.94959",
+		  "HUMAN_TRAFFIC": "691",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222986, 24.94959]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "實踐路&新中北路",
+		  "LONG": "121.238967",
+		  "LAT": "24.958744",
+		  "HUMAN_TRAFFIC": "557",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238967, 24.958744]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "實踐路&中北路165巷",
+		  "LONG": "121.239211",
+		  "LAT": "24.958347",
+		  "HUMAN_TRAFFIC": "624",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239211, 24.958347]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "實踐路&中北路",
+		  "LONG": "121.239181",
+		  "LAT": "24.956808",
+		  "HUMAN_TRAFFIC": "776",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239181, 24.956808]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "實踐路&日新路",
+		  "LONG": "121.240608",
+		  "LAT": "24.955574",
+		  "HUMAN_TRAFFIC": "763",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240608, 24.955574]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "實踐路&弘揚路",
+		  "LONG": "121.242157",
+		  "LAT": "24.954305",
+		  "HUMAN_TRAFFIC": "772",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.242157, 24.954305]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "實踐路&環中東路",
+		  "LONG": "121.243177",
+		  "LAT": "24.953474",
+		  "HUMAN_TRAFFIC": "778",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.243177, 24.953474]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "日新路&實踐路",
+		  "LONG": "121.240608",
+		  "LAT": "24.955574",
+		  "HUMAN_TRAFFIC": "781",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240608, 24.955574]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "日新路&中山東路二段",
+		  "LONG": "121.238139",
+		  "LAT": "24.95379",
+		  "HUMAN_TRAFFIC": "1008",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238139, 24.95379]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "弘揚路&實踐路",
+		  "LONG": "121.242157",
+		  "LAT": "24.954305",
+		  "HUMAN_TRAFFIC": "701",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.242157, 24.954305]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "弘揚路&中山東路二段",
+		  "LONG": "121.239631",
+		  "LAT": "24.952633",
+		  "HUMAN_TRAFFIC": "1050",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239631, 24.952633]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路&永福路",
+		  "LONG": "121.254672",
+		  "LAT": "24.961837",
+		  "HUMAN_TRAFFIC": "784",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.254672, 24.961837]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路&普忠路",
+		  "LONG": "121.249033",
+		  "LAT": "24.957707",
+		  "HUMAN_TRAFFIC": "769",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.249033, 24.957707]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路&新中北路",
+		  "LONG": "121.24809",
+		  "LAT": "24.957051",
+		  "HUMAN_TRAFFIC": "775",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.24809, 24.957051]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路&實踐路",
+		  "LONG": "121.243177",
+		  "LAT": "24.953474",
+		  "HUMAN_TRAFFIC": "591",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.243177, 24.953474]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路&中山東路二段",
+		  "LONG": "121.240388",
+		  "LAT": "24.951544",
+		  "HUMAN_TRAFFIC": "679",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240388, 24.951544]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&中山東路二段",
+		  "LONG": "121.240388",
+		  "LAT": "24.951544",
+		  "HUMAN_TRAFFIC": "800",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240388, 24.951544]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&利民路",
+		  "LONG": "121.238859",
+		  "LAT": "24.950537",
+		  "HUMAN_TRAFFIC": "764",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238859, 24.950537]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&福州路",
+		  "LONG": "121.235062",
+		  "LAT": "24.948095",
+		  "HUMAN_TRAFFIC": "646",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.235062, 24.948095]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&後興路二段",
+		  "LONG": "121.230701",
+		  "LAT": "24.945285",
+		  "HUMAN_TRAFFIC": "644",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.230701, 24.945285]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&龍岡路二段",
+		  "LONG": "121.229573",
+		  "LAT": "24.94455",
+		  "HUMAN_TRAFFIC": "798",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229573, 24.94455]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&林森路",
+		  "LONG": "121.22744",
+		  "LAT": "24.943083",
+		  "HUMAN_TRAFFIC": "1194",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22744, 24.943083]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&自忠二街",
+		  "LONG": "121.225123",
+		  "LAT": "24.941607",
+		  "HUMAN_TRAFFIC": "1011",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225123, 24.941607]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環中東路二段&環南路三段321巷",
+		  "LONG": "121.224856",
+		  "LAT": "24.941478",
+		  "HUMAN_TRAFFIC": "773",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224856, 24.941478]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環南路三段&環南路三段321巷",
+		  "LONG": "121.224856",
+		  "LAT": "24.941478",
+		  "HUMAN_TRAFFIC": "787",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224856, 24.941478]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "環南路三段&金陵路二段",
+		  "LONG": "121.223056",
+		  "LAT": "24.940738",
+		  "HUMAN_TRAFFIC": "679",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.223056, 24.940738]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&中山東路一段",
+		  "LONG": "121.235068",
+		  "LAT": "24.956128",
+		  "HUMAN_TRAFFIC": "682",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.235068, 24.956128]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路151號",
+		  "LONG": "121.238119",
+		  "LAT": "24.958319",
+		  "HUMAN_TRAFFIC": "776",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238119, 24.958319]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路249巷",
+		  "LONG": "121.239899",
+		  "LAT": "24.959215",
+		  "HUMAN_TRAFFIC": "878",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239899, 24.959215]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路261號",
+		  "LONG": "121.240207",
+		  "LAT": "24.959282",
+		  "HUMAN_TRAFFIC": "891",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240207, 24.959282]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路249巷",
+		  "LONG": "121.241579",
+		  "LAT": "24.959285",
+		  "HUMAN_TRAFFIC": "676",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.241579, 24.959285]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路365號",
+		  "LONG": "121.242671",
+		  "LAT": "24.959087",
+		  "HUMAN_TRAFFIC": "632",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.242671, 24.959087]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路407號",
+		  "LONG": "121.243665",
+		  "LAT": "24.958752",
+		  "HUMAN_TRAFFIC": "787",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.243665, 24.958752]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路430號",
+		  "LONG": "121.244193",
+		  "LAT": "24.958501",
+		  "HUMAN_TRAFFIC": "716",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.244193, 24.958501]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路469巷",
+		  "LONG": "121.245002",
+		  "LAT": "24.95783",
+		  "HUMAN_TRAFFIC": "707",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.245002, 24.95783]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&新中北路536號",
+		  "LONG": "121.246131",
+		  "LAT": "24.957187",
+		  "HUMAN_TRAFFIC": "717",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.246131, 24.957187]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&環中東路",
+		  "LONG": "121.24809",
+		  "LAT": "24.957051",
+		  "HUMAN_TRAFFIC": "593",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.24809, 24.957051]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新中北路&普忠路",
+		  "LONG": "121.249908",
+		  "LAT": "24.956947",
+		  "HUMAN_TRAFFIC": "574",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.249908, 24.956947]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普忠路&中華路二段",
+		  "LONG": "121.241404",
+		  "LAT": "24.965995",
+		  "HUMAN_TRAFFIC": "783",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.241404, 24.965995]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普忠路&忠信路",
+		  "LONG": "121.242711",
+		  "LAT": "24.96418",
+		  "HUMAN_TRAFFIC": "683",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.242711, 24.96418]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普忠路&新中北路469巷",
+		  "LONG": "121.245187",
+		  "LAT": "24.961685",
+		  "HUMAN_TRAFFIC": "675",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.245187, 24.961685]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普忠路&環中東路",
+		  "LONG": "121.249078",
+		  "LAT": "24.957671",
+		  "HUMAN_TRAFFIC": "791",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.249078, 24.957671]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普忠路&新中北路",
+		  "LONG": "121.249908",
+		  "LAT": "24.956947",
+		  "HUMAN_TRAFFIC": "642",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.249908, 24.956947]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普忠路&普忠路575號",
+		  "LONG": "121.250667",
+		  "LAT": "24.956127",
+		  "HUMAN_TRAFFIC": "585",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.250667, 24.956127]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "忠義路&中華路二段",
+		  "LONG": "121.237879",
+		  "LAT": "24.964771",
+		  "HUMAN_TRAFFIC": "796",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.237879, 24.964771]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "忠義路&忠信路",
+		  "LONG": "121.239122",
+		  "LAT": "24.962615",
+		  "HUMAN_TRAFFIC": "1066",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239122, 24.962615]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "忠義路8號",
+		  "LONG": "121.240445",
+		  "LAT": "24.960419",
+		  "HUMAN_TRAFFIC": "387",
+		  "tier": "500以下"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240445, 24.960419]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "忠信路5號",
+		  "LONG": "121.236427",
+		  "LAT": "24.961437",
+		  "HUMAN_TRAFFIC": "744",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.236427, 24.961437]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "忠信路&忠義路",
+		  "LONG": "121.239122",
+		  "LAT": "24.962615",
+		  "HUMAN_TRAFFIC": "975",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239122, 24.962615]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "忠信路&忠仁路",
+		  "LONG": "121.240756",
+		  "LAT": "24.96329",
+		  "HUMAN_TRAFFIC": "1026",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240756, 24.96329]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中華路二段&普義路",
+		  "LONG": "121.230558",
+		  "LAT": "24.962402",
+		  "HUMAN_TRAFFIC": "750",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.230558, 24.962402]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中華路二段&中華路二段",
+		  "LONG": "121.233581",
+		  "LAT": "24.963483",
+		  "HUMAN_TRAFFIC": "668",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.233581, 24.963483]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中華路二段&育樂路",
+		  "LONG": "121.23522",
+		  "LAT": "24.963927",
+		  "HUMAN_TRAFFIC": "771",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.23522, 24.963927]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中華路二段&中園路",
+		  "LONG": "121.237937",
+		  "LAT": "24.964844",
+		  "HUMAN_TRAFFIC": "776",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.237937, 24.964844]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中華路二段&普忠路",
+		  "LONG": "121.241404",
+		  "LAT": "24.965995",
+		  "HUMAN_TRAFFIC": "783",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.241404, 24.965995]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中華路二段&自強一路",
+		  "LONG": "121.244376",
+		  "LAT": "24.967042",
+		  "HUMAN_TRAFFIC": "760",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.244376, 24.967042]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "莒光路&杭州路",
+		  "LONG": "121.235627",
+		  "LAT": "24.95137",
+		  "HUMAN_TRAFFIC": "724",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.235627, 24.95137]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "莒光路&利民路",
+		  "LONG": "121.237479",
+		  "LAT": "24.952282",
+		  "HUMAN_TRAFFIC": "648",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.237479, 24.952282]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "莒光路&中山東路二段",
+		  "LONG": "121.238852",
+		  "LAT": "24.953374",
+		  "HUMAN_TRAFFIC": "635",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238852, 24.953374]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "利民路&莒光路",
+		  "LONG": "121.237479",
+		  "LAT": "24.952282",
+		  "HUMAN_TRAFFIC": "711",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.237479, 24.952282]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "利民路&環中東路二段",
+		  "LONG": "121.238859",
+		  "LAT": "24.950537",
+		  "HUMAN_TRAFFIC": "729",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238859, 24.950537]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長沙路&健行路",
+		  "LONG": "121.22789",
+		  "LAT": "24.948122",
+		  "HUMAN_TRAFFIC": "633",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22789, 24.948122]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長沙路&廣州路",
+		  "LONG": "121.230498",
+		  "LAT": "24.949225",
+		  "HUMAN_TRAFFIC": "773",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.230498, 24.949225]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長沙路&成都路",
+		  "LONG": "121.231992",
+		  "LAT": "24.949869",
+		  "HUMAN_TRAFFIC": "644",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.231992, 24.949869]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長沙路&福州路",
+		  "LONG": "121.233775",
+		  "LAT": "24.950626",
+		  "HUMAN_TRAFFIC": "597",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.233775, 24.950626]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "成都路&廣州路",
+		  "LONG": "121.230944",
+		  "LAT": "24.951818",
+		  "HUMAN_TRAFFIC": "759",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.230944, 24.951818]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "成都路&長沙路",
+		  "LONG": "121.231992",
+		  "LAT": "24.949869",
+		  "HUMAN_TRAFFIC": "758",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.231992, 24.949869]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "福州路&中北路二段",
+		  "LONG": "121.232004",
+		  "LAT": "24.954125",
+		  "HUMAN_TRAFFIC": "800",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.232004, 24.954125]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "福州路&廣州路",
+		  "LONG": "121.232719",
+		  "LAT": "24.952693",
+		  "HUMAN_TRAFFIC": "679",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.232719, 24.952693]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "福州路&長沙路",
+		  "LONG": "121.233775",
+		  "LAT": "24.950626",
+		  "HUMAN_TRAFFIC": "574",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.233775, 24.950626]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "福州路&杭州路",
+		  "LONG": "121.234079",
+		  "LAT": "24.950007",
+		  "HUMAN_TRAFFIC": "571",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.234079, 24.950007]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "福州路&環中東路二段",
+		  "LONG": "121.235062",
+		  "LAT": "24.948095",
+		  "HUMAN_TRAFFIC": "693",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.235062, 24.948095]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "四維路&溪洲街",
+		  "LONG": "121.22991",
+		  "LAT": "24.95908",
+		  "HUMAN_TRAFFIC": "554",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22991, 24.95908]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "四維路&八德路",
+		  "LONG": "121.231414",
+		  "LAT": "24.959781",
+		  "HUMAN_TRAFFIC": "714",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.231414, 24.959781]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "四維路&普義路",
+		  "LONG": "121.232086",
+		  "LAT": "24.960125",
+		  "HUMAN_TRAFFIC": "768",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.232086, 24.960125]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "立和路&溪洲街",
+		  "LONG": "121.230201",
+		  "LAT": "24.958512",
+		  "HUMAN_TRAFFIC": "593",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.230201, 24.958512]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "立和路&普義路",
+		  "LONG": "121.23242",
+		  "LAT": "24.959458",
+		  "HUMAN_TRAFFIC": "800",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.23242, 24.959458]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普義路&延平路",
+		  "LONG": "121.229785",
+		  "LAT": "24.963222",
+		  "HUMAN_TRAFFIC": "798",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229785, 24.963222]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普義路&中華路二段",
+		  "LONG": "121.230558",
+		  "LAT": "24.962402",
+		  "HUMAN_TRAFFIC": "671",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.230558, 24.962402]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普義路&四維路",
+		  "LONG": "121.232086",
+		  "LAT": "24.960125",
+		  "HUMAN_TRAFFIC": "685",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.232086, 24.960125]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普義路&立和路",
+		  "LONG": "121.23242",
+		  "LAT": "24.959458",
+		  "HUMAN_TRAFFIC": "689",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.23242, 24.959458]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普義路&普義路88巷",
+		  "LONG": "121.232903",
+		  "LAT": "24.958855",
+		  "HUMAN_TRAFFIC": "621",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.232903, 24.958855]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "普義路&中山東路一段",
+		  "LONG": "121.234022",
+		  "LAT": "24.957103",
+		  "HUMAN_TRAFFIC": "1050",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.234022, 24.957103]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路一段&溪洲街",
+		  "LONG": "121.229021",
+		  "LAT": "24.955723",
+		  "HUMAN_TRAFFIC": "793",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229021, 24.955723]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路一段157號",
+		  "LONG": "121.232157",
+		  "LAT": "24.95658",
+		  "HUMAN_TRAFFIC": "675",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.232157, 24.95658]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路一段&普義路",
+		  "LONG": "121.234022",
+		  "LAT": "24.957103",
+		  "HUMAN_TRAFFIC": "576",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.234022, 24.957103]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路一段&中北路",
+		  "LONG": "121.235495",
+		  "LAT": "24.955608",
+		  "HUMAN_TRAFFIC": "794",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.235495, 24.955608]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路一段&幸福街",
+		  "LONG": "121.23679",
+		  "LAT": "24.954576",
+		  "HUMAN_TRAFFIC": "701",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.23679, 24.954576]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路二段&日新路",
+		  "LONG": "121.238139",
+		  "LAT": "24.95379",
+		  "HUMAN_TRAFFIC": "651",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238139, 24.95379]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路二段&莒光路",
+		  "LONG": "121.238852",
+		  "LAT": "24.953374",
+		  "HUMAN_TRAFFIC": "720",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.238852, 24.953374]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路二段&大勇一街",
+		  "LONG": "121.239302",
+		  "LAT": "24.953099",
+		  "HUMAN_TRAFFIC": "692",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239302, 24.953099]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路二段&弘揚路",
+		  "LONG": "121.239631",
+		  "LAT": "24.952633",
+		  "HUMAN_TRAFFIC": "846",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.239631, 24.952633]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路二段&環中東路",
+		  "LONG": "121.240388",
+		  "LAT": "24.951544",
+		  "HUMAN_TRAFFIC": "700",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.240388, 24.951544]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路二段&龍興路",
+		  "LONG": "121.246421",
+		  "LAT": "24.946413",
+		  "HUMAN_TRAFFIC": "671",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.246421, 24.946413]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路三段&龍慈路",
+		  "LONG": "121.248572",
+		  "LAT": "24.944137",
+		  "HUMAN_TRAFFIC": "667",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.248572, 24.944137]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山東路三段&後興路一段",
+		  "LONG": "121.249812",
+		  "LAT": "24.942617",
+		  "HUMAN_TRAFFIC": "758",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.249812, 24.942617]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "健行路&新興路",
+		  "LONG": "121.226036",
+		  "LAT": "24.952917",
+		  "HUMAN_TRAFFIC": "771",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226036, 24.952917]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "健行路&中北路二段",
+		  "LONG": "121.226556",
+		  "LAT": "24.951845",
+		  "HUMAN_TRAFFIC": "704",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226556, 24.951845]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "健行路&長沙路",
+		  "LONG": "121.22789",
+		  "LAT": "24.948122",
+		  "HUMAN_TRAFFIC": "671",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22789, 24.948122]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "健行路&龍岡路二段",
+		  "LONG": "121.228467",
+		  "LAT": "24.947008",
+		  "HUMAN_TRAFFIC": "722",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228467, 24.947008]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新興路&健行路",
+		  "LONG": "121.226036",
+		  "LAT": "24.952917",
+		  "HUMAN_TRAFFIC": "739",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226036, 24.952917]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "新興路&中新地下道",
+		  "LONG": "121.229362",
+		  "LAT": "24.954318",
+		  "HUMAN_TRAFFIC": "557",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229362, 24.954318]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路一段&新興路",
+		  "LONG": "121.222619",
+		  "LAT": "24.951613",
+		  "HUMAN_TRAFFIC": "783",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222619, 24.951613]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路一段&中北路二段",
+		  "LONG": "121.223587",
+		  "LAT": "24.949922",
+		  "HUMAN_TRAFFIC": "665",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.223587, 24.949922]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路一段&龍岡路一段194巷",
+		  "LONG": "121.224974",
+		  "LAT": "24.94796",
+		  "HUMAN_TRAFFIC": "727",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224974, 24.94796]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路一段&林森路",
+		  "LONG": "121.225364",
+		  "LAT": "24.947827",
+		  "HUMAN_TRAFFIC": "714",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225364, 24.947827]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路一段&執信一街",
+		  "LONG": "121.228502",
+		  "LAT": "24.946926",
+		  "HUMAN_TRAFFIC": "695",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228502, 24.946926]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路二段&健行路",
+		  "LONG": "121.228467",
+		  "LAT": "24.947008",
+		  "HUMAN_TRAFFIC": "713",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228467, 24.947008]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路二段&龍岡路二段73巷",
+		  "LONG": "121.228986",
+		  "LAT": "24.946298",
+		  "HUMAN_TRAFFIC": "613",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228986, 24.946298]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路二段&環中東路二段",
+		  "LONG": "121.229573",
+		  "LAT": "24.94455",
+		  "HUMAN_TRAFFIC": "670",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229573, 24.94455]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路二段&龍岡路二段232號",
+		  "LONG": "121.229992",
+		  "LAT": "24.942299",
+		  "HUMAN_TRAFFIC": "678",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229992, 24.942299]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "龍岡路二段&龍陵路",
+		  "LONG": "121.231152",
+		  "LAT": "24.939051",
+		  "HUMAN_TRAFFIC": "573",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.231152, 24.939051]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "林森路&龍岡路一段",
+		  "LONG": "121.225364",
+		  "LAT": "24.947827",
+		  "HUMAN_TRAFFIC": "575",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225364, 24.947827]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "林森路&林森路10巷",
+		  "LONG": "121.225258",
+		  "LAT": "24.947434",
+		  "HUMAN_TRAFFIC": "758",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225258, 24.947434]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "林森路&林森路16巷",
+		  "LONG": "121.225294",
+		  "LAT": "24.947277",
+		  "HUMAN_TRAFFIC": "641",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225294, 24.947277]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "林森路&環中東路二段",
+		  "LONG": "121.22744",
+		  "LAT": "24.943083",
+		  "HUMAN_TRAFFIC": "657",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22744, 24.943083]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&中正路",
+		  "LONG": "121.21981",
+		  "LAT": "24.955317",
+		  "HUMAN_TRAFFIC": "734",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.21981, 24.955317]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&中榮路",
+		  "LONG": "121.220156",
+		  "LAT": "24.954532",
+		  "HUMAN_TRAFFIC": "747",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220156, 24.954532]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&博愛路",
+		  "LONG": "121.220473",
+		  "LAT": "24.954085",
+		  "HUMAN_TRAFFIC": "702",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220473, 24.954085]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&德育路",
+		  "LONG": "121.220693",
+		  "LAT": "24.953845",
+		  "HUMAN_TRAFFIC": "737",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220693, 24.953845]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&延平路",
+		  "LONG": "121.221459",
+		  "LAT": "24.952969",
+		  "HUMAN_TRAFFIC": "690",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221459, 24.952969]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&永樂路",
+		  "LONG": "121.221803",
+		  "LAT": "24.952544",
+		  "HUMAN_TRAFFIC": "576",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221803, 24.952544]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "康樂路&新興路",
+		  "LONG": "121.222619",
+		  "LAT": "24.951613",
+		  "HUMAN_TRAFFIC": "689",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222619, 24.951613]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&延平路",
+		  "LONG": "121.22209",
+		  "LAT": "24.95393",
+		  "HUMAN_TRAFFIC": "752",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22209, 24.95393]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&永樂路",
+		  "LONG": "121.22306",
+		  "LAT": "24.953546",
+		  "HUMAN_TRAFFIC": "631",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22306, 24.953546]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&復興路",
+		  "LONG": "121.22335",
+		  "LAT": "24.953432",
+		  "HUMAN_TRAFFIC": "707",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22335, 24.953432]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&美樂路",
+		  "LONG": "121.224057",
+		  "LAT": "24.953182",
+		  "HUMAN_TRAFFIC": "676",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224057, 24.953182]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&建國路",
+		  "LONG": "121.224262",
+		  "LAT": "24.953243",
+		  "HUMAN_TRAFFIC": "657",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224262, 24.953243]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&中正路",
+		  "LONG": "121.225351",
+		  "LAT": "24.953763",
+		  "HUMAN_TRAFFIC": "629",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225351, 24.953763]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&中壢站前圓環",
+		  "LONG": "121.225534",
+		  "LAT": "24.953788",
+		  "HUMAN_TRAFFIC": "725",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225534, 24.953788]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&中和路101號",
+		  "LONG": "121.22641",
+		  "LAT": "24.954152",
+		  "HUMAN_TRAFFIC": "663",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22641, 24.954152]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&長江路",
+		  "LONG": "121.228239",
+		  "LAT": "24.954886",
+		  "HUMAN_TRAFFIC": "693",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228239, 24.954886]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&中新地下道",
+		  "LONG": "121.228917",
+		  "LAT": "24.955089",
+		  "HUMAN_TRAFFIC": "671",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228917, 24.955089]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&中山路",
+		  "LONG": "121.228639",
+		  "LAT": "24.955628",
+		  "HUMAN_TRAFFIC": "687",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228639, 24.955628]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中和路&中新地下道",
+		  "LONG": "121.228917",
+		  "LAT": "24.955089",
+		  "HUMAN_TRAFFIC": "649",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228917, 24.955089]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中新地下道&新興路",
+		  "LONG": "121.229362",
+		  "LAT": "24.954318",
+		  "HUMAN_TRAFFIC": "735",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229362, 24.954318]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&環西路二段",
+		  "LONG": "121.20801",
+		  "LAT": "24.961532",
+		  "HUMAN_TRAFFIC": "674",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.20801, 24.961532]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&三光路",
+		  "LONG": "121.209982",
+		  "LAT": "24.960173",
+		  "HUMAN_TRAFFIC": "721",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.209982, 24.960173]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中明路",
+		  "LONG": "121.212542",
+		  "LAT": "24.958044",
+		  "HUMAN_TRAFFIC": "680",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.212542, 24.958044]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中正路487巷",
+		  "LONG": "121.213306",
+		  "LAT": "24.957339",
+		  "HUMAN_TRAFFIC": "607",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.213306, 24.957339]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&新明路",
+		  "LONG": "121.214383",
+		  "LAT": "24.956489",
+		  "HUMAN_TRAFFIC": "642",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.214383, 24.956489]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&明德路",
+		  "LONG": "121.215762",
+		  "LAT": "24.955612",
+		  "HUMAN_TRAFFIC": "677",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.215762, 24.955612]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&民權路",
+		  "LONG": "121.216964",
+		  "LAT": "24.955391",
+		  "HUMAN_TRAFFIC": "761",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.216964, 24.955391]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&義民路一段",
+		  "LONG": "121.217651",
+		  "LAT": "24.955254",
+		  "HUMAN_TRAFFIC": "665",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.217651, 24.955254]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中豐路",
+		  "LONG": "121.218781",
+		  "LAT": "24.955058",
+		  "HUMAN_TRAFFIC": "711",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.218781, 24.955058]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&康樂路",
+		  "LONG": "121.219469",
+		  "LAT": "24.955167",
+		  "HUMAN_TRAFFIC": "665",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.219469, 24.955167]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&大同路",
+		  "LONG": "121.220834",
+		  "LAT": "24.955691",
+		  "HUMAN_TRAFFIC": "601",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220834, 24.955691]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中榮路",
+		  "LONG": "121.221424",
+		  "LAT": "24.955442",
+		  "HUMAN_TRAFFIC": "639",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221424, 24.955442]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&延平路",
+		  "LONG": "121.222593",
+		  "LAT": "24.954982",
+		  "HUMAN_TRAFFIC": "684",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222593, 24.954982]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&復興路",
+		  "LONG": "121.223848",
+		  "LAT": "24.954484",
+		  "HUMAN_TRAFFIC": "749",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.223848, 24.954484]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&建國路",
+		  "LONG": "121.224684",
+		  "LAT": "24.954151",
+		  "HUMAN_TRAFFIC": "654",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224684, 24.954151]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中正路(中壢站前圓環)",
+		  "LONG": "121.225251",
+		  "LAT": "24.953915",
+		  "HUMAN_TRAFFIC": "970",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225251, 24.953915]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中和路",
+		  "LONG": "121.225351",
+		  "LAT": "24.953763",
+		  "HUMAN_TRAFFIC": "805",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225351, 24.953763]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中正路&中壢站前圓環",
+		  "LONG": "121.225534",
+		  "LAT": "24.953788",
+		  "HUMAN_TRAFFIC": "647",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225534, 24.953788]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&中山路",
+		  "LONG": "121.220375",
+		  "LAT": "24.956629",
+		  "HUMAN_TRAFFIC": "672",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220375, 24.956629]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&民生路",
+		  "LONG": "121.221246",
+		  "LAT": "24.956268",
+		  "HUMAN_TRAFFIC": "758",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221246, 24.956268]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&民生路",
+		  "LONG": "121.221246",
+		  "LAT": "24.956268",
+		  "HUMAN_TRAFFIC": "692",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221246, 24.956268]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&大同路",
+		  "LONG": "121.221467",
+		  "LAT": "24.956183",
+		  "HUMAN_TRAFFIC": "688",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221467, 24.956183]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&延平路",
+		  "LONG": "121.222888",
+		  "LAT": "24.955612",
+		  "HUMAN_TRAFFIC": "1108",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222888, 24.955612]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&復興路",
+		  "LONG": "121.224167",
+		  "LAT": "24.955123",
+		  "HUMAN_TRAFFIC": "995",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224167, 24.955123]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&建國路",
+		  "LONG": "121.224979",
+		  "LAT": "24.954795",
+		  "HUMAN_TRAFFIC": "982",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224979, 24.954795]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&和平街",
+		  "LONG": "121.225777",
+		  "LAT": "24.954488",
+		  "HUMAN_TRAFFIC": "1037",
+		  "tier": "1000以上"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225777, 24.954488]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中平路&中壢站前圓環",
+		  "LONG": "121.225913",
+		  "LAT": "24.95416",
+		  "HUMAN_TRAFFIC": "949",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225913, 24.95416]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中正路487巷",
+		  "LONG": "121.213306",
+		  "LAT": "24.957339",
+		  "HUMAN_TRAFFIC": "750",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.213306, 24.957339]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&新明路",
+		  "LONG": "121.214531",
+		  "LAT": "24.957145",
+		  "HUMAN_TRAFFIC": "670",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.214531, 24.957145]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&明德路",
+		  "LONG": "121.216036",
+		  "LAT": "24.956871",
+		  "HUMAN_TRAFFIC": "669",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.216036, 24.956871]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&民權路",
+		  "LONG": "121.217254",
+		  "LAT": "24.956647",
+		  "HUMAN_TRAFFIC": "600",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.217254, 24.956647]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&義民路一段",
+		  "LONG": "121.217946",
+		  "LAT": "24.956528",
+		  "HUMAN_TRAFFIC": "725",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.217946, 24.956528]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中豐路",
+		  "LONG": "121.218966",
+		  "LAT": "24.95635",
+		  "HUMAN_TRAFFIC": "781",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.218966, 24.95635]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中山路368號",
+		  "LONG": "121.219288",
+		  "LAT": "24.956313",
+		  "HUMAN_TRAFFIC": "736",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.219288, 24.956313]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中平路",
+		  "LONG": "121.220375",
+		  "LAT": "24.956629",
+		  "HUMAN_TRAFFIC": "661",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220375, 24.956629]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中山路270巷",
+		  "LONG": "121.221471",
+		  "LAT": "24.956963",
+		  "HUMAN_TRAFFIC": "662",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221471, 24.956963]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中山路250號",
+		  "LONG": "121.221739",
+		  "LAT": "24.956993",
+		  "HUMAN_TRAFFIC": "746",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.221739, 24.956993]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&新生路",
+		  "LONG": "121.222057",
+		  "LAT": "24.956901",
+		  "HUMAN_TRAFFIC": "704",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222057, 24.956901]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&延平路",
+		  "LONG": "121.223276",
+		  "LAT": "24.956413",
+		  "HUMAN_TRAFFIC": "680",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.223276, 24.956413]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&復興路",
+		  "LONG": "121.224538",
+		  "LAT": "24.95591",
+		  "HUMAN_TRAFFIC": "724",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224538, 24.95591]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&建國路",
+		  "LONG": "121.225352",
+		  "LAT": "24.955582",
+		  "HUMAN_TRAFFIC": "728",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225352, 24.955582]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&元化路",
+		  "LONG": "121.226558",
+		  "LAT": "24.955153",
+		  "HUMAN_TRAFFIC": "711",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226558, 24.955153]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&長江路",
+		  "LONG": "121.228042",
+		  "LAT": "24.955465",
+		  "HUMAN_TRAFFIC": "727",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228042, 24.955465]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&中和路",
+		  "LONG": "121.228639",
+		  "LAT": "24.955628",
+		  "HUMAN_TRAFFIC": "736",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228639, 24.955628]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中山路&溪洲街",
+		  "LONG": "121.229021",
+		  "LAT": "24.955723",
+		  "HUMAN_TRAFFIC": "772",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.229021, 24.955723]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中明路&中正路",
+		  "LONG": "121.212542",
+		  "LAT": "24.958044",
+		  "HUMAN_TRAFFIC": "697",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.212542, 24.958044]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中明路&新明路",
+		  "LONG": "121.214655",
+		  "LAT": "24.957723",
+		  "HUMAN_TRAFFIC": "782",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.214655, 24.957723]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中明路&明德路",
+		  "LONG": "121.216163",
+		  "LAT": "24.95746",
+		  "HUMAN_TRAFFIC": "678",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.216163, 24.95746]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中明路&民權路",
+		  "LONG": "121.217268",
+		  "LAT": "24.957246",
+		  "HUMAN_TRAFFIC": "737",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.217268, 24.957246]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中明東路&民權路",
+		  "LONG": "121.217268",
+		  "LAT": "24.957246",
+		  "HUMAN_TRAFFIC": "750",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.217268, 24.957246]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中明東路&義民路一段",
+		  "LONG": "121.218062",
+		  "LAT": "24.957112",
+		  "HUMAN_TRAFFIC": "655",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.218062, 24.957112]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路二段&三光路",
+		  "LONG": "121.211158",
+		  "LAT": "24.961518",
+		  "HUMAN_TRAFFIC": "790",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.211158, 24.961518]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路二段&新明路",
+		  "LONG": "121.214916",
+		  "LAT": "24.958904",
+		  "HUMAN_TRAFFIC": "679",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.214916, 24.958904]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路二段&明德路",
+		  "LONG": "121.216469",
+		  "LAT": "24.958602",
+		  "HUMAN_TRAFFIC": "757",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.216469, 24.958602]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路二段&民權路",
+		  "LONG": "121.21727",
+		  "LAT": "24.958476",
+		  "HUMAN_TRAFFIC": "728",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.21727, 24.958476]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路二段&義民路一段",
+		  "LONG": "121.218314",
+		  "LAT": "24.958274",
+		  "HUMAN_TRAFFIC": "679",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.218314, 24.958274]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路二段&中豐路",
+		  "LONG": "121.219285",
+		  "LAT": "24.958157",
+		  "HUMAN_TRAFFIC": "709",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.219285, 24.958157]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路一段&興國路",
+		  "LONG": "121.220583",
+		  "LAT": "24.958001",
+		  "HUMAN_TRAFFIC": "779",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.220583, 24.958001]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路一段&新生路",
+		  "LONG": "121.222332",
+		  "LAT": "24.957766",
+		  "HUMAN_TRAFFIC": "620",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222332, 24.957766]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路&新生路",
+		  "LONG": "121.222332",
+		  "LAT": "24.957766",
+		  "HUMAN_TRAFFIC": "614",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222332, 24.957766]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路&大同路",
+		  "LONG": "121.222801",
+		  "LAT": "24.957617",
+		  "HUMAN_TRAFFIC": "763",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.222801, 24.957617]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央西路&延平路",
+		  "LONG": "121.223689",
+		  "LAT": "24.95724",
+		  "HUMAN_TRAFFIC": "642",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.223689, 24.95724]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央東路&復興路",
+		  "LONG": "121.224952",
+		  "LAT": "24.956771",
+		  "HUMAN_TRAFFIC": "681",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.224952, 24.956771]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央東路&建國路",
+		  "LONG": "121.225754",
+		  "LAT": "24.956404",
+		  "HUMAN_TRAFFIC": "764",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225754, 24.956404]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央東路&建國北路",
+		  "LONG": "121.225972",
+		  "LAT": "24.956365",
+		  "HUMAN_TRAFFIC": "694",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225972, 24.956365]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中央東路&元化路",
+		  "LONG": "121.226964",
+		  "LAT": "24.955993",
+		  "HUMAN_TRAFFIC": "692",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226964, 24.955993]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中光路&復興路",
+		  "LONG": "121.22529",
+		  "LAT": "24.957437",
+		  "HUMAN_TRAFFIC": "677",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.22529, 24.957437]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中光路&建國北路",
+		  "LONG": "121.226293",
+		  "LAT": "24.957036",
+		  "HUMAN_TRAFFIC": "701",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226293, 24.957036]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中光路&元化路",
+		  "LONG": "121.227283",
+		  "LAT": "24.956642",
+		  "HUMAN_TRAFFIC": "719",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.227283, 24.956642]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中光路&長江路",
+		  "LONG": "121.228101",
+		  "LAT": "24.956328",
+		  "HUMAN_TRAFFIC": "785",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228101, 24.956328]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中台路&復興路",
+		  "LONG": "121.225564",
+		  "LAT": "24.958009",
+		  "HUMAN_TRAFFIC": "574",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.225564, 24.958009]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中台路&建國北路",
+		  "LONG": "121.226551",
+		  "LAT": "24.957637",
+		  "HUMAN_TRAFFIC": "677",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.226551, 24.957637]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "中台路&元化路",
+		  "LONG": "121.227557",
+		  "LAT": "24.957248",
+		  "HUMAN_TRAFFIC": "634",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.227557, 24.957248]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長江路&元化路",
+		  "LONG": "121.227846",
+		  "LAT": "24.957817",
+		  "HUMAN_TRAFFIC": "627",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.227846, 24.957817]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長江路&長江路114號",
+		  "LONG": "121.228647",
+		  "LAT": "24.957483",
+		  "HUMAN_TRAFFIC": "656",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228647, 24.957483]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長江路&中光路",
+		  "LONG": "121.228101",
+		  "LAT": "24.956328",
+		  "HUMAN_TRAFFIC": "658",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228101, 24.956328]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長江路&中央東路",
+		  "LONG": "121.227943",
+		  "LAT": "24.955883",
+		  "HUMAN_TRAFFIC": "734",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.227943, 24.955883]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長江路&中山路",
+		  "LONG": "121.228042",
+		  "LAT": "24.955465",
+		  "HUMAN_TRAFFIC": "760",
+		  "tier": "750~1000"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228042, 24.955465]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "STATION_NAME": "長江路&中和路",
+		  "LONG": "121.228239",
+		  "LAT": "24.954886",
+		  "HUMAN_TRAFFIC": "660",
+		  "tier": "500~750"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [121.228239, 24.954886]
+		}
+	  }
+	]
+  }
+  

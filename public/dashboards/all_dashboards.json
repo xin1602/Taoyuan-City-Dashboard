@@ -1,0 +1,31 @@
+{
+	"data": [
+		{
+			"name": "路口管控",
+			"index": "intersection",
+			"components": ["170", "102", "58", "165", "166", "10", "149"],
+			"icon": "edit_road"
+		},
+		{
+			"name": "中北路口",
+			"index": "zhongbei_intersection",
+			"components": ["138", "137", "139", "136", "135"],
+			"icon": "my_location"
+		},
+		{
+			"name": "收藏組件",
+			"index": "favorites",
+			"components": [],
+			"icon": "favorite"
+		},
+		{
+			"name": "圖資資訊",
+			"index": "map-layers",
+			"components": [
+
+			],
+			"icon": "public"
+		}
+		
+	]
+}

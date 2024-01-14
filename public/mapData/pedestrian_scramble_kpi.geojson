@@ -1,0 +1,405 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20231130,
+				"district": "桃園區",
+				"intersection_name": "桃園火車站前",
+				"longitude": 121.3132507,
+				"latitude": 24.98982846,
+				"tier": "【C】",
+				"kpi": "57"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3132507, 24.98982846]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20231227,
+				"district": "中壢區",
+				"intersection_name": "中正路與復興路口",
+				"longitude": 121.2238621,
+				"latitude": 24.95449208,
+				"tier": "【A】",
+				"kpi": "89"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2238621, 24.95449208]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20231228,
+				"district": "中壢區",
+				"intersection_name": "中正路與建國路口",
+				"longitude": 121.2246685,
+				"latitude": 24.9541684,
+				"tier": "【D】",
+				"kpi": "22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2246685, 24.9541684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20231228,
+				"district": "平鎮區",
+				"intersection_name": "延平路與康樂路口",
+				"longitude": 121.2214567,
+				"latitude": 24.95300911,
+				"tier": "【A】",
+				"kpi": "88"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2214567, 24.95300911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20231229,
+				"district": "平鎮區",
+				"intersection_name": "延平路二段與廣泰路口",
+				"longitude": 121.2057456,
+				"latitude": 24.94188859,
+				"tier": "【C】",
+				"kpi": "53"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2057456, 24.94188859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240101,
+				"district": "中壢區",
+				"intersection_name": "中北路口與實踐路口",
+				"longitude": 121.2391968,
+				"latitude": 24.95684691,
+				"tier": "【C】",
+				"kpi": "54"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2391968, 24.95684691]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240102,
+				"district": "八德區",
+				"intersection_name": "建國路口與介壽路口",
+				"longitude": 121.2991078,
+				"latitude": 24.95766074,
+				"tier": "【E】",
+				"kpi": "17"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2991078, 24.95766074]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240102,
+				"district": "楊梅區",
+				"intersection_name": "環東路與新農街路口",
+				"longitude": 121.1560312,
+				"latitude": 24.9111225,
+				"tier": "【A】",
+				"kpi": "94"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1560312, 24.9111225]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240102,
+				"district": "蘆竹區",
+				"intersection_name": "海山路與南山路",
+				"longitude": 121.2863414,
+				"latitude": 25.08546847,
+				"tier": "【A】",
+				"kpi": "81"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2863414, 25.08546847]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240102,
+				"district": "大溪區",
+				"intersection_name": "復興路口與中華路口",
+				"longitude": 121.292753,
+				"latitude": 24.87817553,
+				"tier": "【B】",
+				"kpi": "75"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.292753, 24.87817553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240103,
+				"district": "龜山區",
+				"intersection_name": "自強南路與明德路口",
+				"longitude": 121.3393621,
+				"latitude": 24.9929845,
+				"tier": "【A】",
+				"kpi": "96"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3393621, 24.9929845]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240103,
+				"district": "大園區",
+				"intersection_name": "中山北路與國際路口",
+				"longitude": 121.1944515,
+				"latitude": 25.06910251,
+				"tier": "【C】",
+				"kpi": "58"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1944515, 25.06910251]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240103,
+				"district": "觀音區",
+				"intersection_name": "中正路口與文化路口",
+				"longitude": 121.0830975,
+				"latitude": 25.03332075,
+				"tier": "【B】",
+				"kpi": "68"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0830975, 25.03332075]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240103,
+				"district": "新屋區",
+				"intersection_name": "三民路口與中華路口",
+				"longitude": 121.1088312,
+				"latitude": 24.96986442,
+				"tier": "【C】",
+				"kpi": "45"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1088312, 24.96986442]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "龍潭區",
+				"intersection_name": "北龍路口與東龍路口",
+				"longitude": 121.2136271,
+				"latitude": 24.86601561,
+				"tier": "【A】",
+				"kpi": "97"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2136271, 24.86601561]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "八德區",
+				"intersection_name": "義勇街路口與忠勇街路口",
+				"longitude": 121.3040696,
+				"latitude": 24.96365911,
+				"tier": "【C】",
+				"kpi": "49"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3040696, 24.96365911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "新屋區",
+				"intersection_name": "三民路口與中興路口",
+				"longitude": 121.1006728,
+				"latitude": 24.96959756,
+				"tier": "【D】",
+				"kpi": "34"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1006728, 24.96959756]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "桃園區",
+				"intersection_name": "中山路口與民族路口",
+				"longitude": 121.3086373,
+				"latitude": 24.9930838,
+				"tier": "【A】",
+				"kpi": "98"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3086373, 24.9930838]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "桃園區",
+				"intersection_name": "中山東路口與東國街口",
+				"longitude": 121.3143869,
+				"latitude": 24.9958216,
+				"tier": "【B】",
+				"kpi": "73"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3143869, 24.9958216]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "觀音區",
+				"intersection_name": "金橋路口與文化路石口",
+				"longitude": 121.0963645,
+				"latitude": 25.00690011,
+				"tier": "【E】",
+				"kpi": "20"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0963645, 25.00690011]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240105,
+				"district": "中壢區",
+				"intersection_name": "仁心路口與興安路口",
+				"longitude": 121.263,
+				"latitude": 24.96636649,
+				"tier": "【D】",
+				"kpi": "22"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.263, 24.96636649]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240106,
+				"district": "中壢區",
+				"intersection_name": "永福路口與榮民路口",
+				"longitude": 121.260365,
+				"latitude": 24.95890573,
+				"tier": "【C】",
+				"kpi": "42"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.260365, 24.95890573]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240106,
+				"district": "中壢區",
+				"intersection_name": "忠孝路口與成章一街",
+				"longitude": 121.2552431,
+				"latitude": 24.97597902,
+				"tier": "【E】",
+				"kpi": "14"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2552431, 24.97597902]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240106,
+				"district": "平鎮區",
+				"intersection_name": "中豐路口語環南路口",
+				"longitude": 121.2162937,
+				"latitude": 24.94022024,
+				"tier": "【A】",
+				"kpi": "85"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2162937, 24.94022024]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"setup_date": 20240106,
+				"district": "平鎮區",
+				"intersection_name": "延平路口與環南路口",
+				"longitude": 121.2084197,
+				"latitude": 24.9449622,
+				"tier": "【A】",
+				"kpi": "90"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2084197, 24.9449622]
+			}
+		}
+	]
+}
