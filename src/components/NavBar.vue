@@ -26,7 +26,6 @@ const linkQuery = computed(() => {
 	<div class="navbar">
 		<div class="navbar-logo">
 			<div class="navbar-logo-image">
-				<img src="../assets/images/TUIC.svg" alt="tuic logo" />
 			</div>
 			<div>
 				<h1>讓我們不再「行」同「默」路</h1>
