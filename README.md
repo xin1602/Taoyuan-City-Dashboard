@@ -1,5 +1,12 @@
 #   Taiyuan City Dashboard 桃園城市儀表板
 <img src='src/assets/images/dashboard_intersection.png'> 
+<img src='src/assets/images/dashboard_zhongbei_intersection.png'> 
+<img src='src/assets/images/dashboard_map01.png'> 
+<img src='src/assets/images/dashboard_map02.png'> 
+<img src='src/assets/images/dashboard_map03.png'> 
+<img src='src/assets/images/component_detail.png'> 
+
+
 
 ## Quick Start
 
@@ -32,5 +39,5 @@ npm install
 5. Refer to the [Docs](https://tuic.gov.taipei/documentation/front-end/project-setup) to complete further configurations.
 
 ## Documentation
-
+Develop Taoyuan City Dashboard based on Taipei City Dashboard.
 Check out the complete documentation for Taipei City Dashboard FE [here](https://tuic.gov.taipei/documentation).
