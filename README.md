@@ -64,7 +64,7 @@
 <br />
 
 
-#### (4).系統呈現
+### 4. 系統呈現
 <img src='src/assets/images/dashboard_intersection.png'> 
 <img src='src/assets/images/dashboard_zhongbei_intersection.png'> 
 <img src='src/assets/images/map01.png'> 
