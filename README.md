@@ -68,13 +68,27 @@
 
 
 ### 4. 系統呈現
-<img src='src/assets/images/dashboard_intersection.png'> 
-<img src='src/assets/images/dashboard_zhongbei_intersection.png'> 
-<img src='src/assets/images/map01.png'> 
-<img src='src/assets/images/map02.png'> 
-<img src='src/assets/images/map03.png'> 
-<img src='src/assets/images/map04.png'> 
-<img src='src/assets/images/component_detail.png'> 
+<div align=center>
+    <img src='src/assets/images/dashboard_intersection.png' width="500">
+</div> 
+<div align=center>
+    <img src='src/assets/images/dashboard_zhongbei_intersection.png' width="500"> 
+</div> 
+<div align=center>
+    <img src='src/assets/images/map01.png' width="500"> 
+</div> 
+<div align=center>
+    <img src='src/assets/images/map02.png' width="500"> 
+</div> 
+<div align=center>
+    <img src='src/assets/images/map03.png' width="500"> 
+</div> 
+<div align=center>
+    <img src='src/assets/images/map04.png' width="500"> 
+</div> 
+<div align=center>
+    <img src='src/assets/images/component_detail.png' width="500"> 
+</div> 
 
 
 
